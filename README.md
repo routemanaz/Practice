@@ -1,8 +1,7 @@
-## Heading
+## COuntries in West Africa
 
-# This is intro to git
-
-1. Let's learn something
-2. learn hard
-3. Science'
-4. Math
+1. Ghana
+2. Nigeria
+3. Senegal
+4. Gambia
+5. Liberia
